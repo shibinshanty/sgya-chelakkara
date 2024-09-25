@@ -1,0 +1,38 @@
+
+.custom-footer {
+  background-color:#370028;
+  color: white; /* Default text color */
+}
+
+.custom-footer a,
+.custom-footer a:visited {
+  color: white !important; /* Ensures link color is white */
+}
+
+.custom-footer a:hover {
+  color: #ffc107 !important; /* Optional: Lighter color on hover */
+}
+
+.custom-footer .social-media i {
+  color: white; /* Ensures icon color is white */
+}
+
+.custom-footer .social-media i:hover {
+  color: #ffc107; /* Optional: Lighter color on hover */
+}
+
+.custom-footer .footer-links a {
+  color: white !important; /* Ensures link color in footer links is white */
+}
+
+.custom-footer .footer-links a:hover {
+  color: #ffc107 !important; /* Optional: Lighter color on hover for footer links */
+}
+
+.custom-footer p a {
+  color: white !important; /* Ensures website credit link color is white */
+}
+
+.custom-footer p a:hover {
+  color: #ffc107 !important; /* Optional: Lighter color on hover for website credit link */
+}

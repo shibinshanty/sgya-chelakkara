@@ -1,0 +1,11 @@
+.hallocontainer{
+    height:1100px;
+    font-family: 'Noto Sans', 'Noto Sans Malayalam', sans-serif;
+}
+
+.head{
+    text-decoration: underline;
+}
+.font{
+    font-weight: 500;
+}

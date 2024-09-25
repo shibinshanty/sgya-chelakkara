@@ -1,0 +1,12 @@
+.body{
+    background-color: #FFFFFF;
+    height: 1200px;
+   
+}
+.custom-border {
+    border-color: #300125;
+  }
+ 
+.img{
+    border-radius:10px;
+}
